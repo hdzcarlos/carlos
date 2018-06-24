@@ -30,23 +30,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Aplicacion
-       MobileAds.initialize(this, "ca-app-pub-5226112071776138~6178670474");
-        //banner
-        mAdView = findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
-        //Intersticial
-        mInterstitialAd  = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-5226112071776138/1814622314");
-        mInterstitialAd.loadAd(new AdRequest.Builder().build());
-        mInterstitialAd.setAdListener(new AdListener() {
-            @Override
-            public void onAdClosed() {
-                mInterstitialAd.loadAd(new AdRequest.Builder().build());
-            }
-        });
-
         final EditText altura = findViewById(R.id.altura);
         final EditText peso = findViewById(R.id.peso);
         final Button calcula = findViewById(R.id.calcula);
