@@ -1,0 +1,71 @@
+
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="Texto_Desnutrido">
+        <h2><b>- POSIBLEMENTE ESTÉ USTED EN PELIGRO -\n</b></h2>
+        Para evitar la desnutrición hay que procurar que nuestro régimen alimenticio incluya hidratos de carbono, proteínas, grasa o lípidos, vitaminas y minerales en forma balanceada.
+        Podemos complementar nuestra dieta con suplementos vitamínicos y alimenticios.
+        Es fundamental que estas medidas se fortalezcan y vigilen estrechamente durante el embarazo, la lactancia, la  infancia, la adolescencia y la vejez..
+        <b>Es de vital importancia que visite a su médico, el puede decidir si realmente está usted en peligro</b></string>
+    <string name="Texto_bajo_peso">
+        <h2><b>- Añada calorías saludables.\n</b></h2>
+        <p> No es necesario cambiar drásticamente su dieta. Puede aumentar las calorías al agregar coberturas de nueces o semillas, queso y guarniciones saludables. Intente comer almendras, semillas de girasol, frutas o cereales integrales, pan integral tostado.\n</p>
+
+        <h2><b>- Ingiera comidas nutritivas.\n</b></h2>
+        <p>En vez de comer calorías vacías y comida chatarra, coma alimentos ricos en nutrientes. Considere consumir carnes de alto valor proteico, que pueden ayudar a que desarrolle músculo. Además, elija los carbohidratos nutritivos, tales como arroz integral y otros granos enteros.
+            Esto ayuda a asegurar que su cuerpo reciba la mayor nutrición posible, incluso si tiene una reducción del apetito.\n</p>
+        <h2><b>- Consuma bocadillos.\n</b></h2>
+        <p>Disfrute de los refrigerios que contienen gran cantidad de proteínas y carbohidratos saludables. Considere opciones, como frutos secos, barras o bebidas proteicas, y galletas con hummus o mantequilla de maní.
+            Además, disfrute de los refrigerios que contienen “grasas buenas“, que son importantes para un corazón sano.
+            Los ejemplos incluyen nueces y aguacates.\n</p>
+        <h2><b>- Coma comidas pequeñas.\n</b></h2>
+        <p> Si usted está luchando con una falta de apetito, debido a problemas médicos o emocionales, comer grandes cantidades de comida puede no parecer atractivo.
+            Considere comer comidas pequeñas durante todo el día para aumentar su consumo de calorías.\n</p>
+        <h2><b>- Aumente su masa muscular.\n</b></h2>
+        <p>Mientras que el exceso de ejercicio aeróbico quema calorías y trabaja en contra de su meta de peso, el entrenamiento de fuerza puede ayudar.
+            Esto incluye el levantamiento de pesas o yoga. Aumenta de peso mediante el desarrollo de músculo.\n</p>
+        <h2><b>¡ CONSULTE A SU MEDICO ANTES DE EMPEZAR NADA POR SU CUENTA !</b></h2>
+    </string>
+    <string name="Texto_normal">
+        <h1><b>CONSEJOS PARA UNA VIDA SANA</b>.\n</h1>
+        <h2><b>Hacer ejercicio regularmente.</b>\n</h2>
+        <p> 1º Empieza hoy mismo. Sal a dar un paseo.\n
+            2º Sube por las escaleras en vez de coger el ascensor\n.
+            3º En vez de ir en coche o utilizar el trasporte público, ve a pie o en bici a lugares como tu centro de enseñanza o la casa de un amigo.\n
+            4º Asegúrate de incluir alguna actividad que te acelere el corazón y la respiración y te haga sudar.\n
+            5º Baila. Aunque sea en la intimidad de tu habitación, ¡dejarte llevar por tus ritmos favoritos puede ayudarte a quemar más de 300 calorías por hora!\n</p>
+        <h2><b>Una dieta sana y  equilibrada</b>\n</h2>
+        <p> 1º Toma por lo menos cinco raciones de fruta y verdura al día. La fibra te saciará y obtendrás los nutrientes y sabores que necesita tu cuerpo para sentirse satisfecho.\n
+            2º Come alimentos de todos los grupos. Aparte de la fruta y la verdura, incluye cereales integrales y proteínas magras en cada comida.\n
+            3º Desayuna de forma saludable cada día.\n
+            4º Come cuando tengas hambre. Si tienes la tentación de picar algo por puro aburrimiento, intenta buscar otra forma de ocupar el tiempo.\n
+            5º Cuando comas en un establecimiento de comida rápida, haz elecciones saludables dentro de lo posible. Elige un bocadillo de hamburguesa pequeño (de un solo piso) en vez de uno inmenso (de varios pisos)\n </p>
+    </string>
+    <string name="Texto_Sobre_Peso">
+        <h1><b>CONSEJOS PARA PERDER UN POCO DE PESO</b>\n</h1>
+        <h2><b>Es muy probable que usted apenas necesite bajar de peso, porque puede que sus músculos estén muy desarrollados.\n</b></h2>
+        <p> 1º El ideal es una alimentación  equilibrada que contenga todos los nutrientes.\n
+            2º Coma el total de calorías que le corresponden en forma fraccionada, de 5 a 6 comidas al día y en horarios fijos.\n
+            3º Tenga presente que la grasa ocupa volumen y el músculo pesa más, por eso a veces usted verá que la balanza no se mueve pero que ha bajado medidas y la ropa le queda mejor.\n
+            4º Idealmente se recomienda un entrenamiento supervisado y con implementos adecuados como el de un gimnasio, pero si no dispone de tiempo o dinero entonces camine, trote, corra o baile, esto será suficiente.\n
+            5º Disfrute de la vida , ser feliz y sentirse bien es lo mas importante para una vida sana.</p>
+    </string>
+    <string name="Texto_Obeso">
+        <h1><b>CONSEJOS PARA BAJAR DE PESO</b>\n</h1>
+        <h2><b>Todo gran esfuerzo tiene una gran recompensa , tu salud.</b>\n</h2>
+        <p> 1º Recuerde este aforismo: desayunar como un rey, comer como un príncipe y cenar como un pordiosero.\n
+            2º Preferir alimentos de origen agrícola: verduras, víveres, frutas.\n
+            3º Es preferible las carnes blancas (cerdos, pollo, otras aves y el pescado).\n
+            4º Beber por lo menos 6 vasos de agua al día.\n
+            5º No cenar antes de acostarse. Camine después de cena.\n
+            6º  Consumir queso de leche descremada (mozzarella, gouda) o yogurt bajo en grasa\n
+            7º Establezca metas alcanzables, no diga “quiero rebajar 30 kilos”, diga: “quiero rebajar 2 kilos este mes”.\n
+            8º Duerma lo suficiente.\n
+            9º Evita el azúcar o dulces, pues tientan más y más.\n
+           10º Coma hasta sentirse satisfecho, no lleno.\n</p>
+        <h2><b>"CONSULTE A SU MEDICO ANTES DE EMPEZAR NINGUNA DIETA.</b></h2>
+
+    </string>
+    <string name="todo">TODO</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5226112071776138/3237646512</string>
+</resources>
